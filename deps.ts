@@ -1,7 +1,7 @@
 export type {
-  MiddlewareHandlerContext,
+  FreshContext,
   Plugin,
-} from "https://deno.land/x/fresh@1.3.1/server.ts";
+} from "https://deno.land/x/fresh@1.6.0/server.ts";
 export {
   GA4Report,
   isDocument,
