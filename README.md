@@ -18,8 +18,8 @@ following:
 import { ga4Plugin } from "https://deno.land/x/fresh_ga4@0.0.1/mod.ts";
 ```
 
-(Note: you probably want to use the latest version, which isn't 0.0.1, but don't do this:
-`https://deno.land/x/fresh_ga4/mod.ts`.)
+(Note: you probably want to use the latest version, which isn't 0.0.1, but don't
+do this: `https://deno.land/x/fresh_ga4/mod.ts`.)
 
 Then change your `start` invocation like so:
 

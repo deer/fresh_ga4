@@ -1,6 +1,6 @@
-import { FreshContext } from "../../deps.ts";
-import type { Event } from "../../deps.ts";
-import { GA4Report, isDocument, isServerError } from "../../deps.ts";
+import { FreshContext } from "../deps.ts";
+import type { Event } from "../deps.ts";
+import { GA4Report, isDocument, isServerError } from "../deps.ts";
 
 const GA4_MEASUREMENT_ID = Deno.env.get("GA4_MEASUREMENT_ID");
 

@@ -1,4 +1,4 @@
-import { Plugin } from "../../deps.ts";
+import { Plugin } from "../deps.ts";
 import { handler } from "../routes/_middleware.ts";
 export type { GA4Options };
 
