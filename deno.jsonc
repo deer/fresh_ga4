@@ -2,5 +2,6 @@
   "lock": false,
   "tasks": {
     "dev": "deno run --watch main.ts"
-  }
+  },
+  "importMap": "./.vscode/import_map.jsonc"
 }
